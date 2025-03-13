@@ -1,4 +1,4 @@
-# This Code Repository Consist of Lates React Router, Custom Hooks, UseEffect and UseLayoutEffect Concept
+# This Code Repository Consist of Latest React Router, Custom Hooks, UseEffect and UseLayoutEffect Concept
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
